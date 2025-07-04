@@ -1,0 +1,131 @@
+[gd_scene load_steps=2 format=3 uid="uid://cwdbtiqqjwxmy"]
+
+[ext_resource type="Script" uid="uid://bgfkp2molt73p" path="res://main.gd" id="1_ig7tw"]
+
+[node name="Main" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 1920.0
+offset_bottom = 1088.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+script = ExtResource("1_ig7tw")
+
+[node name="WordLabel" type="RichTextLabel" parent="."]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -296.0
+offset_top = 20.0
+offset_right = 296.0
+offset_bottom = 157.0
+grow_horizontal = 2
+theme_override_font_sizes/normal_font_size = 100
+bbcode_enabled = true
+text = "بَدْرَ"
+scroll_active = false
+autowrap_mode = 0
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HighlightRect" type="ColorRect" parent="WordLabel"]
+visible = false
+modulate = Color(0.331578, 0.710904, 0.333182, 1)
+z_index = -1
+layout_mode = 0
+offset_left = -24.0
+offset_top = -20.0
+offset_right = 600.0
+offset_bottom = 180.0
+color = Color(0.286397, 0.768273, 0.302115, 1)
+
+[node name="PromptLabel" type="Label" parent="."]
+layout_mode = 0
+offset_left = 8.0
+offset_top = 8.0
+offset_right = 696.0
+offset_bottom = 160.0
+theme_override_colors/font_color = Color(0, 0.635294, 0, 1)
+theme_override_font_sizes/font_size = 40
+autowrap_mode = 3
+
+[node name="AnswerDisplay" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -760.0
+offset_bottom = 136.0
+grow_horizontal = 0
+
+[node name="InstructionsLabel" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 14
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_left = 48.0
+offset_top = -352.0
+offset_bottom = 256.0
+grow_horizontal = 2
+grow_vertical = 2
+autowrap_mode = 3
+
+[node name="SoundInput" type="LineEdit" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -216.0
+offset_top = 288.0
+offset_right = 224.0
+offset_bottom = 400.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 40
+placeholder_text = "Type sound"
+alignment = 1
+
+[node name="ShowInstructionsButton" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = 3
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -519.0
+offset_top = -112.0
+grow_horizontal = 0
+grow_vertical = 0
+theme_override_font_sizes/font_size = 59
+text = "Show Instructions"
+
+[node name="SubmitButton" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -154.0
+offset_top = -118.0
+offset_right = 154.0
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_font_sizes/font_size = 80
+text = "SUBMIT"
+
+[node name="ChoicesContainer" type="GridContainer" parent="."]
+layout_direction = 3
+layout_mode = 1
+anchors_preset = 14
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_top = -320.0
+offset_bottom = 280.0
+grow_horizontal = 2
+grow_vertical = 2

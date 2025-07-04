@@ -1,0 +1,387 @@
+[
+  {
+	"arabic": "جَمَلٌ",
+	"letters": [
+	  {"char": "ج", "name": "jeem", "harakah": "fatha", "sound": "ja"},
+	  {"char": "م", "name": "meem", "harakah": "fatha", "sound": "ma"},
+	  {"char": "ل", "name": "lam", "harakah": "dammatain", "sound": "lun"}
+	],
+	"full_sound": "jamalun"
+  },
+  {
+	"arabic": "بَابٌ",
+	"letters": [
+	  {"char": "ب", "name": "ba", "harakah": "fatha", "sound": "ba"},
+	  {"char": "ا", "name": "alif", "harakah": "madd", "sound": "a"},
+	  {"char": "ب", "name": "ba", "harakah": "dammatain", "sound": "bun"}
+	],
+	"full_sound": "baabun"
+  },
+  {
+	"arabic": "قَمَرٌ",
+	"letters": [
+	  {"char": "ق", "name": "qaf", "harakah": "fatha", "sound": "qa"},
+	  {"char": "م", "name": "meem", "harakah": "fatha", "sound": "ma"},
+	  {"char": "ر", "name": "ra", "harakah": "dammatain", "sound": "run"}
+	],
+	"full_sound": "qamarun"
+  },
+  {
+	"arabic": "كَلْبٌ",
+	"letters": [
+	  {"char": "ك", "name": "kaf", "harakah": "fatha", "sound": "ka"},
+	  {"char": "ل", "name": "lam", "harakah": "sukoon", "sound": "l"},
+	  {"char": "ب", "name": "ba", "harakah": "dammatain", "sound": "bun"}
+	],
+	"full_sound": "kalbun"
+  },
+  {
+	"arabic": "شَجَرَةٌ",
+	"letters": [
+	  {"char": "ش", "name": "sheen", "harakah": "fatha", "sound": "sha"},
+	  {"char": "ج", "name": "jeem", "harakah": "fatha", "sound": "ja"},
+	  {"char": "ر", "name": "ra", "harakah": "fatha", "sound": "ra"},
+	  {"char": "ة", "name": "ta", "harakah": "dammatain", "sound": "tun"}
+	],
+	"full_sound": "shajaratun"
+  },
+  {
+	"arabic": "طَالِبٌ",
+	"letters": [
+	  {"char": "ط", "name": "Tua", "harakah": "fatha", "sound": "Ta"},
+	  {"char": "ا", "name": "alif", "harakah": "madd", "sound": "a"},
+	  {"char": "ل", "name": "lam", "harakah": "kasra", "sound": "li"},
+	  {"char": "ب", "name": "ba", "harakah": "dammatain", "sound": "bun"}
+	],
+	"full_sound": "Taalibun"
+  },
+  {
+	"arabic": "بِنْتٌ",
+	"letters": [
+	  {"char": "ب", "name": "ba", "harakah": "kasra", "sound": "bi"},
+	  {"char": "ن", "name": "noon", "harakah": "sukoon", "sound": "n"},
+	  {"char": "ت", "name": "ta", "harakah": "dammatain", "sound": "tun"}
+	],
+	"full_sound": "bintun"
+  },
+  {
+	"arabic": "مَدْرَسَةٌ",
+	"letters": [
+	  {"char": "م", "name": "meem", "harakah": "fatha", "sound": "ma"},
+	  {"char": "د", "name": "dal", "harakah": "sukoon", "sound": "d"},
+	  {"char": "ر", "name": "ra", "harakah": "fatha", "sound": "ra"},
+	  {"char": "س", "name": "seen", "harakah": "fatha", "sound": "sa"},
+	  {"char": "ة", "name": "ta", "harakah": "dammatain", "sound": "tun"}
+	],
+	"full_sound": "madrasatun"
+  },
+  {
+	"arabic": "زَهْرَةٌ",
+	"letters": [
+	  {"char": "ز", "name": "zay", "harakah": "fatha", "sound": "za"},
+	  {"char": "ه", "name": "ha", "harakah": "sukoon", "sound": "h"},
+	  {"char": "ر", "name": "ra", "harakah": "fatha", "sound": "ra"},
+	  {"char": "ة", "name": "ta", "harakah": "dammatain", "sound": "tun"}
+	],
+	"full_sound": "zahratun"
+  },
+  {
+	"arabic": "دَرْسٌ",
+	"letters": [
+	  {"char": "د", "name": "dal", "harakah": "fatha", "sound": "da"},
+	  {"char": "ر", "name": "ra", "harakah": "sukoon", "sound": "r"},
+	  {"char": "س", "name": "seen", "harakah": "dammatain", "sound": "sun"}
+	],
+	"full_sound": "darsun"
+  },
+  {
+	"arabic": "كُرَةٌ",
+	"letters": [
+	  {"char": "ك", "name": "kaf", "harakah": "damma", "sound": "ku"},
+	  {"char": "ر", "name": "ra", "harakah": "fatha", "sound": "ra"},
+	  {"char": "ة", "name": "ta", "harakah": "dammatain", "sound": "tun"}
+	],
+	"full_sound": "kuratun"
+  },
+  {
+	"arabic": "كَبِيرٌ",
+	"letters": [
+	  {"char": "ك", "name": "kaf", "harakah": "fatha", "sound": "ka"},
+	  {"char": "ب", "name": "ba", "harakah": "kasra", "sound": "bi"},
+	  {"char": "ي", "name": "ya", "harakah": "madd", "sound": "i"},
+	  {"char": "ر", "name": "ra", "harakah": "dammatain", "sound": "run"}
+	],
+	"full_sound": "kabiirun"
+  },
+  {
+	"arabic": "صَغِيرٌ",
+	"letters": [
+	  {"char": "ص", "name": "Suad", "harakah": "fatha", "sound": "Sa"},
+	  {"char": "غ", "name": "ghayn", "harakah": "kasra", "sound": "ghi"},
+	  {"char": "ي", "name": "ya", "harakah": "madd", "sound": "i"},
+	  {"char": "ر", "name": "ra", "harakah": "dammatain", "sound": "run"}
+	],
+	"full_sound": "Saghiirun"
+  },
+  {
+	"arabic": "أَبٌ",
+	"letters": [
+	  {"char": "أ", "name": "Hamza", "harakah": "fatha", "sound": "a"},
+	  {"char": "ب", "name": "ba", "harakah": "dammatain", "sound": "bun"}
+	],
+	"full_sound": "abun"
+  },
+  {
+	"arabic": "أُمٌّ",
+	"letters": [
+	  {"char": "أ", "name": "Hamza", "harakah": "damma", "sound": "u"},
+	  {"char": "م", "name": "meem", "harakah": "shadda", "harakah_shadda": "dammatain", "sound": "mmun"}
+	],
+	"full_sound": "ummun"
+  },
+  {
+	"arabic": "سَيَّارَةٌ",
+	"letters": [
+	  {"char": "س", "name": "seen", "harakah": "fatha", "sound": "sa"},
+	  {"char": "ي", "name": "ya", "harakah": "shadda", "harakah_shadda": "fatha", "sound": "yya"},
+	  {"char": "ا", "name": "alif", "harakah": "madd", "sound": "a"},
+	  {"char": "ر", "name": "ra", "harakah": "fatha", "sound": "ra"},
+	  {"char": "ة", "name": "ta", "harakah": "dammatain", "sound": "tun"}
+	],
+	"full_sound": "sayyaaratun"
+  },
+  {
+	"arabic": "جَمِيلٌ",
+	"letters": [
+	  {"char": "ج", "name": "jeem", "harakah": "fatha", "sound": "ja"},
+	  {"char": "م", "name": "meem", "harakah": "kasra", "sound": "mi"},
+	  {"char": "ي", "name": "ya", "harakah": "madd", "sound": "i"},
+	  {"char": "ل", "name": "lam", "harakah": "dammatain", "sound": "lun"}
+	],
+	"full_sound": "jamiilun"
+  },
+  {
+	"arabic": "بَيْتِي",
+	"letters": [
+	  {"char": "ب", "name": "ba", "harakah": "fatha", "sound": "ba"},
+	  {"char": "ي", "name": "ya", "harakah": "sukoon", "sound": "y"},
+	  {"char": "ت", "name": "ta", "harakah": "kasra", "sound": "ti"},
+	  {"char": "ي", "name": "ya", "harakah": "madd", "sound": "i"}
+	],
+	"full_sound": "baytii"
+  },
+  {
+	"arabic": "نُورٌ",
+	"letters": [
+	  {"char": "ن", "name": "noon", "harakah": "damma", "sound": "nu"},
+	  {"char": "و", "name": "waw", "harakah": "madd", "sound": "u"},
+	  {"char": "ر", "name": "ra", "harakah": "dammatain", "sound": "run"}
+	],
+	"full_sound": "nuurun"
+  },
+  {
+	"arabic": "كُرْسِيٌّ",
+	"letters": [
+	  {"char": "ك", "name": "kaf", "harakah": "damma", "sound": "kur"},
+	  {"char": "ر", "name": "ra", "harakah": "sukoon", "sound": "r"},
+	  {"char": "س", "name": "seen", "harakah": "kasra", "sound": "si"},
+	  {"char": "ي", "name": "ya", "harakah": "shadda", "harakah_shadda": "dammatain", "sound": "yyun"}
+	],
+	"full_sound": "kursiyyun"
+  },
+  {
+	"arabic": "نَجْمٌ",
+	"letters": [
+	  {"char": "ن", "name": "noon", "harakah": "fatha", "sound": "na"},
+	  {"char": "ج", "name": "jeem", "harakah": "sukoon", "sound": "j"},
+	  {"char": "م", "name": "meem", "harakah": "dammatain", "sound": "mun"}
+	],
+	"full_sound": "najmun"
+  },
+  {
+	"arabic": "طَبِيبٌ",
+	"letters": [
+	  {"char": "ط", "name": "Tua", "harakah": "fatha", "sound": "Ta"},
+	  {"char": "ب", "name": "ba", "harakah": "kasra", "sound": "bi"},
+	  {"char": "ي", "name": "ya", "harakah": "madd", "sound": "i"},
+	  {"char": "ب", "name": "ba", "harakah": "dammatain", "sound": "bun"}
+	],
+	"full_sound": "Tabiibun"
+  },
+  {
+	"arabic": "فَاكِهَةٌ",
+	"letters": [
+	  {"char": "ف", "name": "fa", "harakah": "fatha", "sound": "fa"},
+	  {"char": "ا", "name": "alif", "harakah": "madd", "sound": "a"},
+	  {"char": "ك", "name": "kaf", "harakah": "kasra", "sound": "ki"},
+	  {"char": "ه", "name": "ha", "harakah": "fatha", "sound": "ha"},
+	  {"char": "ة", "name": "ta", "harakah": "dammatain", "sound": "tun"}
+	],
+	"full_sound": "faaklihatun"
+  },
+  {
+	"arabic": "كُوبٌ",
+	"letters": [
+	  {"char": "ك", "name": "kaf", "harakah": "damma", "sound": "ku"},
+	  {"char": "و", "name": "waw", "harakah": "madd", "sound": "u"},
+	  {"char": "ب", "name": "ba", "harakah": "dammatain", "sound": "bun"}
+	],
+	"full_sound": "kuubun"
+  },
+  {
+	"arabic": "لَحْمٌ",
+	"letters": [
+	  {"char": "ل", "name": "lam", "harakah": "fatha", "sound": "la"},
+	  {"char": "ح", "name": "Ha", "harakah": "sukoon", "sound": "H"},
+	  {"char": "م", "name": "meem", "harakah": "dammatain", "sound": "mun"}
+	],
+	"full_sound": "laHmun"
+  },
+  {
+	"arabic": "شَمْسِيَّةٌ",
+	"letters": [
+	  {"char": "ش", "name": "sheen", "harakah": "fatha", "sound": "sha"},
+	  {"char": "م", "name": "meem", "harakah": "sukoon", "sound": "m"},
+	  {"char": "س", "name": "seen", "harakah": "kasra", "sound": "si"},
+	  {"char": "ي", "name": "ya", "harakah": "shadda", "harakah_shadda": "fatha", "sound": "yya"},
+	  {"char": "ة", "name": "ta", "harakah": "dammatain", "sound": "tun"}
+	],
+	"full_sound": "shamsiyyatun"
+  },
+  {
+	"arabic": "قِطَّةٌ",
+	"letters": [
+	  {"char": "ق", "name": "qaf", "harakah": "kasra", "sound": "qi"},
+	  {"char": "ط", "name": "Tua", "harakah": "shadda", "harakah_shadda": "fatha", "sound": "TTa"},
+	  {"char": "ة", "name": "ta", "harakah": "dammatain", "sound": "tun"}
+	],
+	"full_sound": "qiTTatun"
+  },
+  {
+	"arabic": "مُهَنْدِسٌ",
+	"letters": [
+	  {"char": "م", "name": "meem", "harakah": "damma", "sound": "mu"},
+	  {"char": "ه", "name": "ha", "harakah": "fatha", "sound": "ha"},
+	  {"char": "ن", "name": "noon", "harakah": "sukoon", "sound": "n"},
+	  {"char": "د", "name": "dal", "harakah": "kasra", "sound": "di"},
+	  {"char": "س", "name": "seen", "harakah": "dammatain", "sound": "sun"}
+	],
+	"full_sound": "muhandisun"
+  },
+  {
+	"arabic": "أُسْرَةٌ",
+	"letters": [
+	  {"char": "أ", "name": "Hamza", "harakah": "damma", "sound": "u"},
+	  {"char": "س", "name": "seen", "harakah": "sukoon", "sound": "s"},
+	  {"char": "ر", "name": "ra", "harakah": "fatha", "sound": "ra"},
+	  {"char": "ة", "name": "ta", "harakah": "dammatain", "sound": "tun"}
+	],
+	"full_sound": "usratun"
+  },
+  {
+	"arabic": "ضَرْبَةٌ",
+	"letters": [
+	  {"char": "ض", "name": "Duad", "harakah": "fatha", "sound": "Da"},
+	  {"char": "ر", "name": "ra", "harakah": "sukoon", "sound": "r"},
+	  {"char": "ب", "name": "ba", "harakah": "fatha", "sound": "ba"},
+	  {"char": "ة", "name": "ta", "harakah": "dammatain", "sound": "tun"}
+	],
+	"full_sound": "Darbatun"
+  },
+  {
+	"arabic": "سَاعَةٌ",
+	"letters": [
+	  {"char": "س", "name": "seen", "harakah": "fatha", "sound": "sa"},
+	  {"char": "ا", "name": "alif", "harakah": "madd", "sound": "a"},
+	  {"char": "ع", "name": "ayn", "harakah": "fatha", "sound": "a"},
+	  {"char": "ة", "name": "ta", "harakah": "dammatain", "sound": "tun"}
+	],
+	"full_sound": "saa'atun"
+  },
+  {
+	"arabic": "عَصْفُورٌ",
+	"letters": [
+	  {"char": "ع", "name": "ayn", "harakah": "fatha", "sound": "a"},
+	  {"char": "ص", "name": "Suad", "harakah": "sukoon", "sound": "S"},
+	  {"char": "ف", "name": "fa", "harakah": "damma", "sound": "fu"},
+	  {"char": "و", "name": "waw", "harakah": "madd", "sound": "u"},
+	  {"char": "ر", "name": "ra", "harakah": "dammatain", "sound": "run"}
+	],
+	"full_sound": "aSfuurun"
+  },
+  {
+	"arabic": "بَطَّةٌ",
+	"letters": [
+	  {"char": "ب", "name": "ba", "harakah": "fatha", "sound": "ba"},
+	  {"char": "ط", "name": "Tua", "harakah": "shadda", "harakah_shadda": "fatha", "sound": "TTa"},
+	  {"char": "ة", "name": "ta", "harakah": "dammatain", "sound": "tun"}
+	],
+	"full_sound": "baTTatun"
+  },
+  {
+	"arabic": "صَفٌّ",
+	"letters": [
+	  {"char": "ص", "name": "Suad", "harakah": "fatha", "sound": "Sa"},
+	  {"char": "ف", "name": "fa", "harakah": "shadda", "harakah_shadda": "dammatain", "sound": "ffun"}
+	],
+	"full_sound": "Saffun"
+  },
+  {
+	"arabic": "جَنَّةٌ",
+	"letters": [
+	  {"char": "ج", "name": "jeem", "harakah": "fatha", "sound": "ja"},
+	  {"char": "ن", "name": "noon", "harakah": "shadda", "harakah_shadda": "fatha", "sound": "nna"},
+	  {"char": "ة", "name": "ta", "harakah": "dammatain", "sound": "tun"}
+	],
+	"full_sound": "jannatun"
+  },
+  {
+	"arabic": "رَجُلٌ",
+	"letters": [
+	  {"char": "ر", "name": "ra", "harakah": "fatha", "sound": "ra"},
+	  {"char": "ج", "name": "jeem", "harakah": "damma", "sound": "ju"},
+	  {"char": "ل", "name": "lam", "harakah": "dammatain", "sound": "lun"}
+	],
+	"full_sound": "rajulun"
+  },
+  {
+	"arabic": "دُخَانٌ",
+	"letters": [
+	  {"char": "د", "name": "dal", "harakah": "damma", "sound": "du"},
+	  {"char": "خ", "name": "kha", "harakah": "fatha", "sound": "kha"},
+	  {"char": "ا", "name": "alif", "harakah": "madd", "sound": "a"},
+	  {"char": "ن", "name": "noon", "harakah": "dammatain", "sound": "nun"}
+	],
+	"full_sound": "dukhaanun"
+  },
+  {
+	"arabic": "بَحْرٌ",
+	"letters": [
+	  {"char": "ب", "name": "ba", "harakah": "fatha", "sound": "ba"},
+	  {"char": "ح", "name": "Ha", "harakah": "sukoon", "sound": "H"},
+	  {"char": "ر", "name": "ra", "harakah": "dammatain", "sound": "run"}
+	],
+	"full_sound": "baHrun"
+  },
+  {
+	"arabic": "عَمُودٌ",
+	"letters": [
+	  {"char": "ع", "name": "ayn", "harakah": "fatha", "sound": "a"},
+	  {"char": "م", "name": "meem", "harakah": "damma", "sound": "mu"},
+	  {"char": "و", "name": "waw", "harakah": "madd", "sound": "u"},
+	  {"char": "د", "name": "dal", "harakah": "dammatain", "sound": "dun"}
+	],
+	"full_sound": "amuudun"
+  },
+  {
+	"arabic": "كِتَابِي",
+	"letters": [
+	  {"char": "ك", "name": "kaf", "harakah": "kasra", "sound": "ki"},
+	  {"char": "ت", "name": "ta", "harakah": "fatha", "sound": "ta"},
+	  {"char": "ا", "name": "alif", "harakah": "madd", "sound": "a"},
+	  {"char": "ب", "name": "ba", "harakah": "kasra", "sound": "bi"},
+	  {"char": "ي", "name": "ya", "harakah": "madd", "sound": "i"}
+	],
+	"full_sound": "kitaabii"
+  }
+]
